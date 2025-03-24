@@ -1,6 +1,5 @@
 package aula018;
 
-import java.time.LocalDate;
 import java.util.Locale;
 
 public class ex01 {
